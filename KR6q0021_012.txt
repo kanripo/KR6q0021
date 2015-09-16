@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.120180
+#+DATE: 2015-08-30 21:43:12.827018
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS J
 #+PROPERTY: LASTPB <pb:KR6q0021_X_012-0382b> 
 #+PROPERTY: JUAN 12
 ¶
-
- 五燈全書目錄卷第十二¶
+五燈全書目錄卷第十二¶
 ¶
 
 卷六十一¶
@@ -98,7 +97,7 @@
 　　空杏偉禪師　廣平實禪師¶
 　空相珪禪師法嗣¶
 　　天寧壽禪師　天寧才禪師¶
-　　南陽維摩懷禪師　雒陽天慶能禪師¶
+　　南陽維摩懷禪師　𨿅陽天慶能禪師¶
 　　安國仁禪師　韶陽雲門憨禪師¶
 　　遼州定禪師　解州沿禪師¶
 　　曜州顯禪師¶
@@ -117,7 +116,7 @@
 　　少室月舟文載禪師¶
 青原下第三十二世¶
 　少室載禪師法嗣¶
-　　小山宗書禪師　顯慶𥌓菴悟寅禪師¶
+　　小山宗書禪師　顯慶[目*署]菴悟寅禪師¶
 青原下第三十三世¶
 　宗鏡書禪師法嗣¶
 　　少室幻休常潤禪師。廩山蘊空常忠禪師¶
