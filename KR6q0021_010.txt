@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.086348
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_010-0375c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
-
- 五燈全書目錄卷第十¶
+五燈全書目錄卷第十¶
 ¶
 
 卷四十八¶
@@ -163,7 +162,7 @@
 　徑山瑛禪師法嗣¶
 　　徑山偃溪廣聞禪師　靈隱大川普濟禪師¶
 　　徑山淮海原肇禪師　雙林介石朋禪師¶
-　　天童弁山阡禪師　虎丘枯樁曇禪師¶
+　　天童弁山阡禪師　虎丘枯椿曇禪師¶
 　　龍溪文禪師　虎丘東山道源禪師¶
 　　大慈芝嵒慧洪禪師　壽國夢窻嗣清禪師¶
 　育王印禪師法嗣¶

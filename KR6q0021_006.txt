@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:11.998178
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_006-0358c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
-
- 五燈全書目錄卷第六¶
+五燈全書目錄卷第六¶
 ¶
 
 卷三十一¶
@@ -151,7 +150,7 @@
 　　中宮登禪師　景德簡禪師¶
 　　舍利該禪師　雲居慶禪師¶
 　　永安圓禪師　十王清禪師¶
-　　雍熈德興禪師　六合修己禪師¶
+　　雍熈德興禪師　六合修巳禪師¶
 　　德山文燦禪師　龍牙遷禪師¶
 　　梁山了奇禪師　報恩禪師¶
 　　龍門禪師　瑞巖圓禪師¶
@@ -244,7 +243,7 @@
 　上方獄禪師法嗣¶
 　　東山順宗禪師¶
 　金山新禪師法嗣¶
-　　天聖守道禪師　天聖楚祥禪師(以下不列章次)¶
+　　天聖守道禪師　天聖楚祥禪師(不列章次)¶
 　　極樂用基禪師　上方守能禪師¶
 卷三十四
 <pb:KR6q0021_X_006-0362a>¶

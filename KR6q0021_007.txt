@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.029174
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_007-0368a> 
 #+PROPERTY: JUAN 7
 ¶
-
- 五燈全書目錄卷第七¶
+五燈全書目錄卷第七¶
 ¶
 
 卷三十六¶

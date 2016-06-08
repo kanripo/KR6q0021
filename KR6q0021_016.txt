@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.201809
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_016-0400b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
-
- 五燈全書目錄卷第十六¶
+五燈全書目錄卷第十六¶
 ¶
 
 卷一百九¶
@@ -129,7 +128,7 @@
 　　慶壽元悟玉禪師　黃山趙文孺居士¶
 　　高郵州定禪師　徑山雲菴慶禪師¶
 　　竹林巨川海禪師　雪峯樵隱悟逸禪師¶
-　　坱北和尚　鎮州嘉山來禪師¶
+　　𤤠北和尚　鎮州嘉山來禪師¶
 　　溈山太初禪師　子範慧洪大師¶
 　　蔣山慧空元模禪師　佛光道悟禪師¶
 　　普覺淳朋禪師　雪竇常藏主¶

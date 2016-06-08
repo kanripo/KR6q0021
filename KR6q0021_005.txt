@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:11.977862
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_005-0354a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 五燈全書目錄卷第五¶
+五燈全書目錄卷第五¶
 ¶
 
 卷二十六¶
@@ -243,7 +242,7 @@
 　　丹霞子淳禪師　枯木法成禪師¶
 　　寶峯惟照禪師　石門元易禪師¶
 　　淨因自覺禪師　天寧禧誧禪師¶
-　　天寧齊璉禪師　梅山己禪師¶
+　　天寧齊璉禪師　梅山巳禪師¶
 　　普賢善秀禪師　鹿門法燈禪師¶
 　　資聖南禪師　洞山微禪師¶
 　　太傅高世則　龍門南禪師(以下不列章次)¶
@@ -369,4 +368,4 @@
 　東谷光禪師法嗣¶
 　　直翁舉禪師(不列章次)¶
 ¶
-五燈全書目錄卷第五
+五燈全書目卷第五

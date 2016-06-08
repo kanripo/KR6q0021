@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.132940
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_013-0384b> ¶
 #+PROPERTY: JUAN 13
 ¶
-
- 五燈全書目錄卷第十三¶
+五燈全書目錄卷第十三¶
 ¶
 
 卷六十四¶
@@ -115,7 +114,7 @@
 卷七十一¶
 南嶽下第三十五世隨錄¶
 　　連雲古淵成禪師　慧雲本充盛禪師¶
-　　樗菴柴立己禪師　空巖坦禪師¶
+　　樗菴柴立巳禪師　空巖坦禪師¶
 　　西徑山蒼霞桴禪師　靈峰斷眉敏禪師¶
 　　澄江課虗真禪師　龍華韜明宗禪師¶
 　　資聖天水廣禪師　資福靈機觀禪師¶

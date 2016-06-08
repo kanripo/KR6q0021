@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.153205
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_014-0390a> ¶
 #+PROPERTY: JUAN 14
 ¶
-
- 五燈全書目錄卷第十四¶
+五燈全書目錄卷第十四¶
 ¶
 
 卷八十五¶
@@ -397,7 +396,7 @@
 　　羅山慵菴玉禪師　寶峰雷門墜禪師¶
 　　崇國具彰略禪師　惠因無瑕玉禪師¶
 　　天寧指月明禪師　大奇月菴潔禪師¶
-　　法雲石樵玘禪師　悟真南野纘禪師¶
+　　法雲石樵𤣱禪師　悟真南野纘禪師¶
 　　佛奧寺鐵山基禪師　香林石璞質禪師¶
 　　寶寧紫芝有禪師　羅漢寺冶翁伯禪師¶
 　　慈雲子固方禪師　福慧生白虗禪師¶
@@ -442,4 +441,4 @@
 　　海鹽草堂秀禪師　懶雲學禪師¶
 　　眉庵靈谿源禪師　廣泉自曉愍禪師¶
 　　萬善始如真禪師　羅漢月嶠閒禪師¶
-五燈全書目錄卷第十四
+五燈全書目餘卷第十四

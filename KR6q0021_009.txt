@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:43:12.071506
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:48
 #+TITLE: 五燈全書目錄
 #+PROPERTY: CBETA_ID X81n1570
 #+PROPERTY: ID KR6q0021
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 81, No. 1570
 #+PROPERTY: VOL 81
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0021_X_009-0372c> ¶¶¶
 #+PROPERTY: JUAN 9
 ¶
-
- 五燈全書目錄卷第九¶
+五燈全書目錄卷第九¶
 ¶
 
 卷四十一¶
@@ -130,7 +129,7 @@
 　　參政錢端禮居士¶
 　靈隱遠禪師法嗣
 <pb:KR6q0021_X_009-0374b>¶
-　　東山全庵齊己禪師　疎山歸雲如本禪師¶
+　　東山全庵齊巳禪師　疎山歸雲如本禪師¶
 　　日本叡山覺阿上人　淨慈濟顛道濟禪師¶
 　　內翰曾開居士　知府葛郯居士¶
 　華藏民禪師法嗣¶
